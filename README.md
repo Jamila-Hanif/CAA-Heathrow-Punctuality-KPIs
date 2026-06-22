@@ -14,6 +14,5 @@ UK CAA 2024 airport punctuality analysis. Heathrow KPI: 67.3% on-time &lt;15min.
 5. Visualized delay patterns for hub airport operations
 
 **Visuals**:
-<img width="2100" height="2100" alt="heathrow_punctuality_pie" src="https://github.com/user-attachments/assets/b6ca4d77-f346-4adf-896e-ba70784516ec" />
-<img width="3300" height="2100" alt="uk_airports_ontime_chart" src="https://github.com/user-attachments/assets/8143af07-5ef9-4154-a168-c3d074349619" />
-
+![Heathrow Punctuality Breakdown](heathrow_punctuality_pie.png)
+![Top 10 UK Airports On-time](uk_airports_ontime_chart.png)
