@@ -40,7 +40,7 @@ UK CAA Airport Statistics 2024 - Monthly punctuality KPIs for UK airports
 3.⁠ ⁠Charts + model output generate automatically
 
 ---
-Built by Jameela Hanif | Aspiring Flight Data Analyst Officer | Riyad Air Vision 2030
+Built by Jamila Hanif | Aspiring Flight Data Analyst Officer | Riyad Air Vision 2030
 
 **Visuals**:
 <img width="2100" height="2100" alt="heathrow_punctuality_pie" src="https://github.com/user-attachments/assets/1a39c12e-579f-459f-bdaa-db4794e52616" />
