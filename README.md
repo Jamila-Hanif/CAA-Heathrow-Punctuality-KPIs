@@ -15,7 +15,4 @@ UK CAA 2024 airport punctuality analysis. Heathrow KPI: 67.3% on-time &lt;15min.
 
 **Visuals**:
 ![UK Airports Ranking](uk_airports_ontime_chart.png)
-![Heathrow Breakdown](heathrow_punctuality_pie.png)
-
-**Riyad Air Relevance**:
-Directly mirrors Flight Data Analyst Officer role - monitoring AODB data, calculating punctuality KPIs, reporting delay metrics for on-time performance + safety compliance. Supports Vision 2030 airport operations.
+![Heathrow Breakdown](heathrow_punctuality_ .
